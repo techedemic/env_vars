@@ -1,5 +1,7 @@
 ## NodeJS and environment variables
 
+This repo is to be used in conjunction with https://www.youtube.com/watch?v=aHQa-8381Vc
+
 - Reading raw environment variables
 - Reading environment variables from a `.env` file
 - Using custom name and/or location for `.env` file.
