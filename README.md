@@ -1,7 +1,9 @@
 ## NodeJS and environment variables
 
 - Reading raw environment variables
-- Reading environment variables from a file
+- Reading environment variables from a `.env` file
+- Using custom name and/or location for `.env` file.
+- What NOT to do with `.env` files
 
 Assumptions:
 
